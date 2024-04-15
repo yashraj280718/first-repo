@@ -1,3 +1,3 @@
 # first-repo
 for leraning github
-author yashraj
+author- yashraj
